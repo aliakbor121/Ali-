@@ -1,0 +1,10 @@
+{
+  "name": "FinTracker Pro",
+  "short_name": "FinTracker",
+  "description": "A premium, offline-first personal finance tracker with interactive charts, AI-driven spending insights, and Material 3 design philosophy.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": []
+}
